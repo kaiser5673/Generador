@@ -1,0 +1,7 @@
+Perseo
+http://aminoapps.com/c/Karestohd
+api link
+api key
+api name
+mode (0 for 200 accounts, 1 for 50 accounts | 0 para 200 contas, e 1 para 50 contas)
+autoupdate (0 for Active, 1 for Disable | 0 para ativar, 1 para Desativar)
